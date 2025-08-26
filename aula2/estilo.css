@@ -1,0 +1,5 @@
+table, td, tr{
+    border: solid;
+}
+
+a:hover{color:rgb(29, 235, 2)}
